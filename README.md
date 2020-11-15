@@ -1,7 +1,7 @@
 # Snake-Game
 simple snake game 
 
-Git push V1
+Git push V1 13/11/2020
 
 - Snake is only a rectangle that moves with no restrictions
 
@@ -10,3 +10,11 @@ Git push V1
 - Icon is not there as well
 
 - one thing shopuld be done at leat in the next push
+
+Git push V2 15/11/2020
+
+- Borders had been added 
+
+- Snake can be able to walk between borders 
+
+
